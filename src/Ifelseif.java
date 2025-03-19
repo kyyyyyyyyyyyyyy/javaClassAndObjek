@@ -17,7 +17,6 @@ public class Ifelseif {
             System.out.println("C");
         } else if (grade >= 0 && grade < 50) {
             System.out.println("D");
-
         }else {
             System.out.println("Nilai anda tidak valid");
         }
